@@ -22,3 +22,19 @@ Only optimize, resize, fit (crop+resize), return as-is for stored files. Written
  -  JPEG + PNG only
 
 https://github.com/spacechop/spacechop - Docker container version of Spacechop. Proxy, Crop, resize, crop (not only center, also right+left!), fit, fill, change format, compress, strip metadata. 
+
+https://github.com/aldor007/mort
+
+https://github.com/h2non/imaginary
+
+https://github.com/thoas/picfit
+
+--- 
+
+### Image editors
+
+https://pqina.nl/doka/#demo-jquery-file-upload
+
+### File uploader
+
+https://github.com/pqina/filepond
